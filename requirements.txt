@@ -17,6 +17,7 @@ dbus-python==1.2.18
 distro==1.7.0
 distro-info==1.1+ubuntu1
 fastapi==0.88.0
+gyp==0.1
 h11==0.14.0
 httplib2==0.20.4
 hyperlink==21.0.0
